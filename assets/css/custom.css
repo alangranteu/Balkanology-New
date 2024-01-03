@@ -56,16 +56,17 @@ h5, h6 {
    margin-bottom: 0;
 }
 
-div#header {
+header {
     height: 50px;
 	font-size: 15px;
 	background-color: #990000;
 	color: #FFFFFF; 
 }
-div#header a img {border: 0px;}
+
+header a img {border: 0px;}
 
 @media only screen and (max-width: 720px) {
-	div#header {
+	header {
 		font-size: 9px;
 	}
 }
