@@ -200,7 +200,7 @@ div.imagebox, div.imageboxleft, div.imageboxright {
 div.imagebox { text-align: center; margin: 5px 0px 0px 0px; }
 div.imageboxleft { text-align: center; float : left; margin: 5px 10px 5px 0px; }
 div.imageboxright { text-align: center; float : right; margin: 5px 0px 5px 10px; }
-div.imagebox img, div.imageboxleft img, div.imageboxright img { padding: 10px 5px 0px 5px;  }
+div.imagebox img, div.imageboxleft img, div.imageboxright img { padding: 10px 5px 0px 5px; max-width: 100%;}
 div.imagebox p, div.imageboxleft p, div.imageboxright p { margin: 5px; font-weight: bold; } 
 
 div.innerlink { 
