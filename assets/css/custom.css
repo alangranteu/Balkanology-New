@@ -33,10 +33,7 @@ blockquote { font-style: italic; }
 }
 
 h1 {
-    display: inline;
-	margin: 0;
-	padding-top: 3px;
-	padding-left: 0.5em;
+	margin: 0 2em 0 2em;
     font-family: "maiandra gd", tahoma, arial, sans-serif;
 	font-variant: small-caps;
 }
@@ -50,6 +47,7 @@ h2, h3, h4 {
     font-family: georgia, tahoma, arial, sans-serif;
 	color: #990000;
 }
+
 h5, h6 {
    font-size: 100%;
    font-family: tahoma, arial, sans-serif;
