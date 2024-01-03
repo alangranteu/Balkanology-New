@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--  <link rel="icon" href="/assets/images/favicon.png" /> -->
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+    {% seo %}
+    <link rel="stylesheet" href="/assets/css/custom.css">
+  </head>
+  <body>
+      <header>
+         
+          {% include navigation.html %}
+      </header>
+      <main>
+        {{ content }}
+      </main>
+
+      <footer>
+         
+         <p>Subscribe to the <a href="https://slowtrainsfastwalks.com/feed.xml">feed</a> for site updates.</p>
+         <p>Follow me on <a rel="me" href="https://en.osm.town/@alan">Mastodon</a> with any Fediverse account.</p>
+         <p>Email me at alan [at] slowtrainsfastwalks.com.</p> 
+         <p>Site made with <a href="https://simplecss.org">Simple.css</a> and <a href="https://jekyllrb.com">Jekyll</a>.</p>      
+      </footer>
+  </body>
+ </html>
