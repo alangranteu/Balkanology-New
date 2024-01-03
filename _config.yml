@@ -1,0 +1,37 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# SEO Stuff
+name: Balkanology 
+title: 
+author: Alan Grant
+description: Explore Southeast Europe
+lang: en
+locale: en_GB
+url: "https://new.balkanology.com"
+baseurl: ""
+
+# RSS feeds
+# feed:
+#  posts_limit: 20
+
+# permalink: /:categories/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: true
+
+relative_links:
+  enabled: true
+  collections: true
