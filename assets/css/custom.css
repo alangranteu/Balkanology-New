@@ -73,10 +73,10 @@ header a img {border: 0px;}
 div#mainbox {
     background-color: #FFFFFF;
 	color: #000000;
-	border-width: 0px 1px 1px 1px;
+	border-width: 0px 0px 0px 1px;
 	border-style: solid;
 	border-color: #999999;
- 	margin-left: 15rem;
+ 	margin-left: 8rem;
 	padding: 1em;
 	line-height: 140%;  
 }
@@ -86,12 +86,12 @@ div#leftbox {
     position: absolute;
 	left: 0;
 	top: 50px;
-	width: 15rem;
+	width: 8rem;
 	line-height: 130%;
 }
 
 div#footer {
-  margin: 0px 0px 1rem 15rem;
+  margin: 0 1rem 0 1rem;
 }
 
 footer {
