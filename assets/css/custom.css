@@ -1,7 +1,7 @@
 /* Main Stylesheet for Balkanology.com - Alan Grant 2006 */
 
 body {
-    max-width: 70em;
+    max-width: 70rem;
 	margin: 0 auto 0 auto;
 	border-left: 1px solid #999999;
     border-right: 1px solid #999999;
@@ -9,8 +9,8 @@ body {
     font-family:  arial, sans-serif;
 	padding: 0;
 	color: #000000;
-	background-color: #DDDDDD;
-	font-size: 84%; 
+	background-color: #EEEEEE;
+	font-size: 100%; 
     position: relative;
 }
 
@@ -73,10 +73,10 @@ header a img {border: 0px;}
 div#mainbox {
     background-color: #FFFFFF;
 	color: #000000;
-	border-width: 0px 0px 0px 1px;
+	border-width: 0px 1px 0px 1px;
 	border-style: solid;
 	border-color: #999999;
- 	margin-left: 8rem;
+ 	margin-left: 7rem;
 	padding: 1em;
 	line-height: 140%;  
 }
@@ -86,7 +86,7 @@ div#leftbox {
     position: absolute;
 	left: 0;
 	top: 50px;
-	width: 8rem;
+	width: 7rem;
 	line-height: 130%;
 }
 
@@ -210,7 +210,7 @@ div.adbox {
 div.hadbox {
  	text-align: center;
 	border: 1px solid #999999; 
-	background-color: #eeeeee;
+	background-color: #EEEEEE;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
@@ -220,9 +220,9 @@ span.bookname { font-style: italic; }
 p.narrow { width: 50% }
 
 div.disclaimer {
-	background-color: #EEEEEE;
+	background-color: #F3F3F3;
 	color: #000000;
-	border: 1px solid #999999;
+	border: 2px solid #BB0000;
 	padding: 0.5em;;
 }
 
