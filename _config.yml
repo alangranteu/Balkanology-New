@@ -5,10 +5,10 @@ plugins:
   - jekyll-seo-tag
 
 # SEO Stuff
-name: Balkanology 
-title: 
+name: Balkanology - Explore Southeast Europe
+title: Balkanology - Explore Southeast Europe
 author: Alan Grant
-description: Explore Southeast Europe
+description: A guide to travel in the countries of the Balkan Peninsula
 lang: en
 locale: en_GB
 url: "https://new.balkanology.com"

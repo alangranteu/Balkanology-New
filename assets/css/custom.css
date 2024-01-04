@@ -104,6 +104,10 @@ div#footer {
   margin: 0px 125px 1em 125px;
 }
 
+footer {
+  text-align: center;	
+}
+
 ul.sidemenu {
   padding: 0;
 	margin: 2em 0 0 0; 

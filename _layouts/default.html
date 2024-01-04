@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--  <link rel="icon" href="/assets/images/favicon.png" /> -->
+    <link rel="icon" href="/assets/images/favicon16x16.png" /> 
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
     {% feed_meta %}
@@ -16,13 +16,43 @@
           <img src="images/balkanology_logo.gif" style="float: left;" height="44" width="44" alt="">
           <h1>Balkanology&nbsp;&nbsp;::&nbsp;&nbsp;Explore Southeast Europe</h1> 
       </header>
-      <main>
+      <main>     
+        <div class="disclaimer">
+          <p><b>Disclaimer:</b> These pages are not actively maintained, and some of the practical information on the site is out of date. I am working on a new version of the site that will focus more on my photos and memories of travel in Southeast Europe, and less on practical details that too easily become obsolete. In the meantime, please treat the information here with caution.</p>
+        </div>
+          
         {{ content }}
+
+        <div id="leftbox">
+        <nav>  
+          <ul class="sidemenu">
+          <li><a class="current" href="index.html" title="Home page">Home</a></li>
+          <li><a href="http://blog.balkanology.com/" title="Balkanology Blog">Blog</a></li>
+          <li><a href="general/about.html" title="Find out more about this website and its creator">About</a></li>
+          </ul>
+          
+          <ul class="sidemenu">
+          <li><a href="overview/index.html" title="Overview of the Balkans">Overview</a></li>
+          <li><a href="albania/index.html" title="Albania travel information and resources">Albania</a></li> 
+          <li><a href="bosnia/index.html" title="Bosnia and Herzegovina travel information and resources">Bosnia &amp; Herz.</a></li>
+          <li><a href="bulgaria/index.html" title="Bulgaria travel information and resources">Bulgaria</a></li>
+          <li><a href="croatia/index.html" title="Croatia travel information and resources">Croatia</a></li>
+          <li><a href="greece/index.html" title="Greece travel information and resources">Greece</a></li>
+          <li><a href="kosovo/index.html" title="Kosovo travel information and resources">Kosovo</a></li>
+          <li><a href="macedonia/index.html" title="Macedonia travel information and resources">Macedonia</a></li>
+          <li><a href="montenegro/index.html" title="Montenegro travel information and resources">Montenegro</a></li>
+          <li><a href="romania/index.html" title="Romania travel information and resources">Romania</a></li>
+          <li><a href="serbia/index.html" title="Serbia travel information and resources">Serbia</a></li>
+          <li><a href="slovenia/index.html" title="Slovenia travel information and resources">Slovenia</a></li>
+          <li><a href="turkey/index.html" title="European Turkey travel information and resources">Turkey</a></li>
+          </ul> 
+        </nav>
+        </div> <!-- leftbox -->
       </main>
 
       <footer>
-         
-         <p>Email me at alan [at] balkanology.com.</p> 
+        Text and photos by <a href="general/about.html">Alan Grant</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 </a>
+        <br>Contact me at alan [at] balkanology [dot] com 
       </footer>
   </body>
  </html>
