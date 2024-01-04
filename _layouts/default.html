@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/assets/images/favicon16x16.png" /> 
+    <link rel="icon" href="/assets/images/favicon-16x16.png" /> 
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
     {% feed_meta %}
@@ -17,12 +17,15 @@
           <h1>Balkanology&nbsp;&nbsp;::&nbsp;&nbsp;Explore Southeast Europe</h1> 
       </header>
       <main>     
+        <div id="mainbox">
         <div class="disclaimer">
           <p><b>Disclaimer:</b> These pages are not actively maintained, and some of the practical information on the site is out of date. I am working on a new version of the site that will focus more on my photos and memories of travel in Southeast Europe, and less on practical details that too easily become obsolete. In the meantime, please treat the information here with caution.</p>
         </div>
           
         {{ content }}
 
+        </div>
+        
         <div id="leftbox">
         <nav>  
           <ul class="sidemenu">
@@ -48,6 +51,7 @@
           </ul> 
         </nav>
         </div> <!-- leftbox -->
+      
       </main>
 
       <footer>
