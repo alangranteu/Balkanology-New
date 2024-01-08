@@ -29,7 +29,7 @@ blockquote { font-style: italic; }
 }
 
 h1 {
-	margin: 0 2em 0 2em;
+	margin: 0;
     font-family: "maiandra gd", tahoma, arial, sans-serif;
 	font-variant: small-caps;
 }
@@ -64,6 +64,11 @@ div#banner a img {border: 0px;}
 	header {
 		font-size: 9px;
 	}
+}
+
+nav {
+    border-left: 1px solid #999999;
+	border-right: 1px solid #999999;	
 }
 
 div#mainbox {
@@ -166,7 +171,7 @@ div#footer ul.menuacross li.lastitem {
 	background-color: #EEEEEE;
 	color: #000000;
 	border: 1px solid #999999;
-	padding: 0.5em;;
+	padding: 0 0.5rem; 0 0.5rem;
 }
 
 .aside blockquote {
