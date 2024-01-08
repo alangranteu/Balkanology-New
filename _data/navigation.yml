@@ -1,10 +1,32 @@
 - name: Home
   link: /
 - name: Blog
-  link: /blog
-- name: Málaga Stations
-  link: /malaga-stations
-- name: Walks
-  link: /walks
-- name: Links
-  link: /links
+  link: /blog.balkanology.com
+- name: About
+  link: /general/about.html
+- name: Overview
+  link: /overview/index.html
+- name: Albania
+  link: /albania/index.html
+- name: Bosnia & Herz.
+  link: /bosnia/index.html
+- name: Bulgaria
+  link: /bulgaria/index.html
+- name: Croatia
+  link: /croatia/index.html
+- name: Greece
+  link: /greece/index.html
+- name: Kosovo
+  link: /kosovo/index.html
+- name: N Macedonia
+  link: /macedonia/index.html
+- name: Montenegro
+  link: /Montenegro/index.html
+- name: Romania
+  link: /romania/index.html
+- name: Serbia
+  link: /serbia/index.html
+- name: Slovenia
+  link: /slovenia/index.html
+- name: Turkey
+  link: /turkey/index.html

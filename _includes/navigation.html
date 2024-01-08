@@ -1,12 +1,16 @@
-<nav>
-  {% for item in site.data.navigation %}
-    {% assign linkclass = nil %}
-    {% if page.url == item.link %} 
-      {% assign linkclass = 'current' %} 
-    {% elsif item.link != '/' and page.url contains item.link %} 
-      {% assign linkclass = 'current' %} 
-    {% endif %}
-    <a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a>
-  {% endfor %}
-</nav>
+<div id="leftbox">
+  <nav>  
+    <ul class="sidemenu">
+      {% for item in site.data.navigation %}
+        {% assign linkclass = nil %}
+        {% if page.url == item.link %} 
+          {% assign linkclass = 'current' %} 
+        {% elsif item.link != '/' and page.url contains item.link %} 
+          {% assign linkclass = 'current' %} 
+        {% endif %}
+        <li><a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>  
+  </nav>
+</div> <!-- leftbox -->
 
