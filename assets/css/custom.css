@@ -51,6 +51,14 @@ h5, h6 {
    margin-bottom: 0;
 }
 
+div#mainbox {
+    background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid #999999;
+	padding: 1em;
+	line-height: 140%;  
+}
+
 div#banner {
     height: 50px; 
 	font-size: 15px;
@@ -66,21 +74,6 @@ div#banner a img {border: 0px;}
 	}
 }
 
-nav {
-    border-left: 1px solid #999999;
-	border-right: 1px solid #999999;
-	border-top: 0;
-	border-bottom: 0;	
-}
-
-div#mainbox {
-    background-color: #FFFFFF;
-	color: #000000;
-	border: 1px solid #999999;
-	padding: 1em;
-	line-height: 140%;  
-}
-
 div#footer {
   margin: 0 1rem 0 1rem;
 }
@@ -90,7 +83,14 @@ footer {
   text-align: center;	
 }
 
-ul.sidemenu {
+nav {
+    border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-top: 0;
+	border-bottom: 0;	
+}
+
+nav ul {
     padding: 0;
 	margin: 0; 
 	border-top: 1px solid #999999;  
@@ -100,22 +100,22 @@ ul.sidemenu {
 	overflow: hidden;
 }
 
-ul.sidemenu li {
+nav ul li {
     float: left;
 }
 
-ul.sidemenu a {
+nav ul a {
    display: block;
    padding: 0.5rem 1rem 0.5rem 1rem;
    text-decoration: none;	    
 } 
 
-ul.sidemenu a:hover {
+nav ul a:hover {
     background-color: #990000;
 	color: #FFFFFF; 
 }
 
-ul.sidemenu a.current {
+nav ul a.current {
     background-color: #666666;
 	color: #FFFFFF; 
 }
@@ -144,7 +144,7 @@ div.topmenu ul.menuacross {
 }
 
 div.topmenu a:link, div.topmenu a:visited, div.topmenu a:hover, div.topmenu a:active {
-  text-decoration: none;	
+    text-decoration: none;	
 	background-color: #EEEEEE;
 	padding-left: 0.5em;
 	padding-right: 0.5em;
@@ -189,7 +189,8 @@ div.imagebox, div.imageboxleft, div.imageboxright {
 	width: auto;
 	max-width: 100%;
 }
-div.imagebox {  text-align: center; margin: 5px 0px 0px 0px; }
+
+div.imagebox { text-align: center; margin: 5px 0px 0px 0px; }
 div.imageboxleft { text-align: center; float : left; margin: 5px 10px 5px 0px; }
 div.imageboxright { text-align: center; float : right; margin: 5px 0px 5px 10px; }
 div.imagebox img, div.imageboxleft img, div.imageboxright img { margin: 10px 5px 0px 5px; max-width: 100%;}
