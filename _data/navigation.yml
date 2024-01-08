@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Blog
-  link: blog.balkanology.com
+  link: https://blog.balkanology.com
 - name: About
   link: /general/about.html
 - name: Overview

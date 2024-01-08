@@ -61,14 +61,16 @@ div#banner {
 div#banner a img {border: 0px;}
 
 @media only screen and (max-width: 720px) {
-	header {
+	div#banner {
 		font-size: 9px;
 	}
 }
 
 nav {
     border-left: 1px solid #999999;
-	border-right: 1px solid #999999;	
+	border-right: 1px solid #999999;
+	border-top: 0;
+	border-bottom: 0;	
 }
 
 div#mainbox {
@@ -184,12 +186,13 @@ div.imagebox, div.imageboxleft, div.imageboxright {
 	background-color: #DDDDDD;
 	color: #000000;
 	border: 1px solid #999999;
+	width: auto;
 	max-width: 100%;
 }
 div.imagebox {  text-align: center; margin: 5px 0px 0px 0px; }
 div.imageboxleft { text-align: center; float : left; margin: 5px 10px 5px 0px; }
 div.imageboxright { text-align: center; float : right; margin: 5px 0px 5px 10px; }
-div.imagebox img, div.imageboxleft img, div.imageboxright img { padding: 10px 5px 0px 5px; max-width: 100%;}
+div.imagebox img, div.imageboxleft img, div.imageboxright img { margin: 10px 5px 0px 5px; max-width: 100%;}
 div.imagebox p, div.imageboxleft p, div.imageboxright p { margin: 5px; font-weight: bold; } 
 
 div.innerlink { 
