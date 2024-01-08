@@ -55,14 +55,14 @@ h5, h6 {
    margin-bottom: 0;
 }
 
-header {
-    height: 50px;
+div#banner {
+    height: 50px; 
 	font-size: 15px;
 	background-color: #990000;
 	color: #FFFFFF; 
 }
 
-header a img {border: 0px;}
+div#banner a img {border: 0px;}
 
 @media only screen and (max-width: 720px) {
 	header {
@@ -73,14 +73,14 @@ header a img {border: 0px;}
 div#mainbox {
     background-color: #FFFFFF;
 	color: #000000;
-	border-width: 0px 0px 1px 1px;
+	border-width: 1px 1px;
 	border-style: solid;
 	border-color: #999999;
- 	margin-left: 7rem;
 	padding: 1em;
 	line-height: 140%;  
 }
 
+/*
 div#leftbox {
     text-align: center;
     position: absolute;
@@ -90,6 +90,7 @@ div#leftbox {
 	line-height: 130%;
 	font-size: 84%;
 }
+*/
 
 div#footer {
   margin: 0 1rem 0 1rem;
@@ -101,26 +102,31 @@ footer {
 }
 
 ul.sidemenu {
-  padding: 0;
-	margin: 2em 0 0 0; 
+    padding: 0;
+	margin: 0; 
 	border-top: 1px solid #999999;  
 	font-size: 1em;
-	list-style-position: outside;
 	list-style-type: none;
 	font-weight: bold;
+	overflow: hidden;
 }
-ul.sidemenu a:link, ul.sidemenu a:visited, ul.sidemenu a:hover, ul.sidemenu a:active  {
-    text-decoration: none;	
-	display: block; 
-    width: 100%;
-	border-bottom: 1px solid #999999; 
+
+ul.sidemenu li {
+    float: left;
 }
+
+ul.sidemenu a {
+   display: block;
+   padding: 1rem;
+   text-decoration: none;	    
+} 
+
 ul.sidemenu a:hover {
     background-color: #990000;
 	color: #FFFFFF; 
 }
 
-ul.sidemenu a.current:link, ul.sidemenu a.current:visited, ul.sidemenu a.current:hover, ul.sidemenu a.current:active {
+ul.sidemenu a.current {
     background-color: #666666;
 	color: #FFFFFF; 
 }

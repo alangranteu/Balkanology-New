@@ -10,14 +10,25 @@
     {% seo %}
     <link rel="stylesheet" href="/assets/css/custom.css">
   </head>
+  
   <body>
       <header>
-          <a id="top"></a>
-          <img src="images/balkanology_logo.gif" style="float: left;" height="44" width="44" alt="">
-          <h1>Balkanology&nbsp;&nbsp;::&nbsp;&nbsp;Explore Southeast Europe</h1> 
+          <div id="banner">
+            <h1>
+              <a id="top" href="../index.html" title="Balkanology Home Page">  
+                <img src="images/balkanology_logo.gif" style="float: left;" height="44" width="44" alt="">
+                &nbsp;Balkanology&nbsp;&nbsp;::&nbsp;&nbsp;Explore Southeast Europe
+              </a>
+            </h1> 
+          </div>
+
+          {% include navigation.html %}
+        
       </header>
+      
       <main>     
         <div id="mainbox">
+        
         <div class="disclaimer">
           <p><b>Disclaimer:</b> These pages are not actively maintained, and some of the practical information on the site is out of date. I am working on a new version of the site that will focus more on my photos and memories of travel in Southeast Europe, and less on practical details that too easily become obsolete. In the meantime, please treat the information here with caution.</p>
         </div>
@@ -25,8 +36,6 @@
         {{ content }}
 
         </div>
-
-        {% include navigation.html %}
       
       </main>
 
@@ -34,5 +43,6 @@
         Text and photos by <a href="general/about.html">Alan Grant</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 </a>
         <br>Contact me at alan [at] balkanology [dot] com 
       </footer>
+
   </body>
  </html>
