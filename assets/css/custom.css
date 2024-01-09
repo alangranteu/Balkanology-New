@@ -102,11 +102,11 @@ nav ul {
 
 nav ul li {
     float: left;
+	padding: 0.3em 0.5em 0.3rem 0.5em;
 }
 
 nav ul a {
    display: block;
-   padding: 0.5rem 1rem 0.5rem 1rem;
    text-decoration: none;	    
 } 
 
@@ -173,7 +173,7 @@ div#footer ul.menuacross li.lastitem {
 	background-color: #EEEEEE;
 	color: #000000;
 	border: 1px solid #999999;
-	padding: 0 0.5rem; 0 0.5rem;
+	padding: 0 0.5rem 0 0.5rem;
 }
 
 .aside blockquote {
@@ -202,17 +202,6 @@ div.innerlink {
 	font-size: 0.9em;
 }
 
-div.adbox {
-  margin-top: 100px;
-}
-div.hadbox {
- 	text-align: center;
-	border: 1px solid #999999; 
-	background-color: #EEEEEE;
-	margin-top: 5px;
-	margin-bottom: 5px;
-}
-
 span.sitename { font-variant: small-caps; }
 span.bookname { font-style: italic; }
 p.narrow { width: 50% }
@@ -221,7 +210,7 @@ div.disclaimer {
 	background-color: #F3F3F3;
 	color: #000000;
 	border: 2px solid #BB0000;
-	padding: 0.5em;;
+	padding: 0 0.5em 0 0.5em;
 }
 
 /* Extra styles for specific pages */
@@ -258,47 +247,6 @@ ul.linklist h4, ol.faqlist h4, table.gentable h4 {
   }
   table.gentable td.more p { padding : 0 }
   
-  table.mailform td {vertical-align: top }
-  
-  table.whatsnew { border-collapse: collapse; }
-  table.whatsnew td {
-	border: 1px solid #BBBBBB;
-	  padding: 0.5em;
-	  vertical-align: top;
-  }
-  table.whatsnew col.datecol { width: 10em; }
-  
-  body#sitemapbody {
-	background-color: #FFFFFF;
-	color: #000000;
-  }
-  div#sitemap {
-	margin: 2em;
-	line-height: 140%;  
-  }
-  
-  div.sitemappanel {
-	border: 1px solid #BBBBBB;
-	float: left;
-	padding: 0.3em;
-	margin: 1em 1em 0.3em 0em;
-	width: 16em;
-  }
-  div.sitemappanel h4 {
-	font-family: arial, sans-serif;
-	font-weight: bold;
-	margin: 0;
-  }
-  div.sitemappanel ul { 
-	margin-top: 0.3em;
-	margin-left: 0;
-	padding-left: 1em;
-	list-style-type: none; 
-  }
-  div.sitemappanel ul ul {
-	padding-left: 2em; 
-	list-style-type: circle; 
-  }
   a.mapref:link, a.mapref:visited, a.mapref:hover, a.mapref:active { 
 	color: #006600; 
 	  background-color: transparent;
@@ -308,5 +256,3 @@ ul.linklist h4, ol.faqlist h4, table.gentable h4 {
   table.dark { background-color: #DDDDDD; }
   table.alphabet { border: 1px solid #BBBBBB; text-align: center; font-size: 15px;  margin-left: auto; margin-right: auto; }
   table.alphabet th { padding-left: 0.4em; padding-right: 0.4em; }
-  table.transport { font-size: 90%; border: 2px solid #999999; text-align: center; margin-left: auto; margin-right: auto; }
-  table.transport td, table.transport th { padding-left: 0.4em; padding-right: 0.4em; border: 1px solid #999999;}

@@ -1,9 +1,5 @@
 - name: Home
   link: /
-- name: Blog
-  link: https://blog.balkanology.com
-- name: About
-  link: /general/about.html
 - name: Overview
   link: /overview/index.html
 - name: Albania
@@ -30,3 +26,7 @@
   link: /slovenia/index.html
 - name: Turkey
   link: /turkey/index.html
+- name: Blog
+  link: https://blog.balkanology.com
+- name: About
+  link: /general/about.html
