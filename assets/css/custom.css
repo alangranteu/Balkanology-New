@@ -211,6 +211,11 @@ div.disclaimer {
 	padding: 0 0.5em 0 0.5em;
 }
 
+div.disclaimer h4 {
+	margin: 0.3em 0 0 0;
+	text-align: center
+}
+
 /* Extra styles for specific pages */
 ul.linklist h4, ol.faqlist h4, table.gentable h4 { 
 	font-family: arial, sans-serif; 
