@@ -1,31 +1,31 @@
 - name: Home
   link: /
 - name: Overview
-  link: /overview/index.html
+  link: /overview/
 - name: Albania
-  link: /albania/index.html
+  link: /albania/
 - name: Bosnia & Herz.
-  link: /bosnia/index.html
+  link: /bosnia/
 - name: Bulgaria
-  link: /bulgaria/index.html
+  link: /bulgaria/
 - name: Croatia
-  link: /croatia/index.html
+  link: /croatia/
 - name: Greece
-  link: /greece/index.html
+  link: /greece/
 - name: Kosovo
-  link: /kosovo/index.html
+  link: /kosovo/
 - name: N Macedonia
-  link: /macedonia/index.html
+  link: /macedonia/
 - name: Montenegro
-  link: /Montenegro/index.html
+  link: /Montenegro/
 - name: Romania
-  link: /romania/index.html
+  link: /romania/
 - name: Serbia
-  link: /serbia/index.html
+  link: /serbia/
 - name: Slovenia
-  link: /slovenia/index.html
+  link: /slovenia/
 - name: Turkey
-  link: /turkey/index.html
+  link: /turkey/
 - name: Blog
   link: https://blog.balkanology.com
 - name: About
