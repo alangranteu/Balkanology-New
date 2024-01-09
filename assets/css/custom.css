@@ -214,17 +214,17 @@ div.disclaimer {
 /* Extra styles for specific pages */
 ul.linklist h4, ol.faqlist h4, table.gentable h4 { 
 	font-family: arial, sans-serif; 
-	  margin-bottom: 0; 
+	margin-bottom: 0; 
+	display: inline;
   }
   ul.linklist h5 {
 	 font-family: arial, sans-serif; 
-	   font-size: 100%;
-	   margin-right: 2em;
-	   display: inline;
+	 font-size: 100%;
+	 margin-right: 2em;
+	 display: inline;
   }
   ul.linklist p, ol.faqlist p, ol.faqlist ul { margin-top: 0.5em; margin-bottom: 0.5em }
   ul.linklist li { margin-top: 0.5em;}
-  ol.faqlist h4 { margin-top: 1em; }
   
   table.gentable td {
 	vertical-align: middle; 
@@ -239,12 +239,8 @@ ul.linklist h4, ol.faqlist h4, table.gentable h4 {
 	border: 1px dotted #660000;
 	font-weight: bold;
   }
-  table.gentable td.cover { 
-	background-color: #DDDDDD; 
-	border: 1px dotted #660000;
-  }
   table.gentable td.more p { padding : 0 }
-  
+   
   a.mapref:link, a.mapref:visited, a.mapref:hover, a.mapref:active { 
 	color: #006600; 
 	  background-color: transparent;

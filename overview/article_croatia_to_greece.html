@@ -3,84 +3,6 @@ layout: default
 title: Balkanology | Overview :: How to travel from Croatia to Greece by land, sea, and air
 description: How to travel from Croatia to Greece by land, sea, and air
 ---
-
-<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAwuaS9nXcb7WrNo_0FvmHnBTJE-sO_c9-em-Nj8BgscwOjBd3PBQM8Q2D-EvQ6kEABPvIGPIlAhniEA"
-      type="text/javascript"></script>
-<script type="text/javascript">
-    //<![CDATA[
-    function load() {
-      if (GBrowserIsCompatible()) {
-        var map = new GMap2(document.getElementById("map"));
-				map.disableDragging();
-        map.setCenter(new GLatLng(41.7, 20.5), 5);
-      }
-			var points1 = [];
-			var points2 = [];
-			var points3 = [];
-			var points4 = [];
-			
-			var point = new GLatLng(45.8,15.966667); 
-			points1.push(point); 
-      map.addOverlay(new GMarker(point, {title:"Zagreb", clickable: false})); 			
- 			var point = new GLatLng(42.6506,18.0914); 
-			points2.push(point);		
-			points3.push(point);	
-			map.addOverlay(new GMarker(point, {title:"Dubrovnik", clickable: false}));
- 			var point = new GLatLng(42.0931,19.1003); 
-			points2.push(point);		
-			points4.push(point);		
-			map.addOverlay(new GMarker(point, {title:"Bar", clickable: false}));
- 			var point = new GLatLng(42.0675,19.5131); 
-			points2.push(point);		
-			map.addOverlay(new GMarker(point, {title:"Shkodra", clickable: false}));
- 			var point = new GLatLng(41.3275,19.8189); 
-			points2.push(point);		
-			map.addOverlay(new GMarker(point, {title:"Tirana", clickable: false}));
-			var point = new GLatLng(41.1333,16.85); 
-			points3.push(point);	
-			map.addOverlay(new GMarker(point, {title:"Bari", clickable: false}));
- 			var point = new GLatLng(39.38,19.50); 
-			points3.push(point);		
-			map.addOverlay(new GMarker(point, {title:"Corfu", clickable: false}));
- 			var point = new GLatLng(39.483333,20.266667); 
-			points3.push(point);	
-			map.addOverlay(new GMarker(point, {title:"Igoumenitsa", clickable: false}));
- 			var point = new GLatLng(38.25,21.733333); 
-			points3.push(point);
-			map.addOverlay(new GMarker(point, {title:"Patras", clickable: false}));
-
-			var point = new GLatLng(44.8186,20.4681); 
-			points1.push(point);
-			points4.push(point);
-      map.addOverlay(new GMarker(point, {title:"Belgrade", clickable: false}));;			
-			var point = new GLatLng(43.3247,21.9033); 
-			points1.push(point);
-      map.addOverlay(new GMarker(point, {title:"Nis", clickable: false}));
-			var point = new GLatLng(42.0052,21.4417); 
-			points1.push(point);
-      map.addOverlay(new GMarker(point, {title:"Skopje", clickable: false}));
-			var point = new GLatLng(40.633333,22.95); 
-			points1.push(point);
-      map.addOverlay(new GMarker(point, {title:"Thessaloniki", clickable: false}));
-			var point = new GLatLng(37.966667,23.716667); 
-			points1.push(point);
-		  points2.push(point);
-			points3.push(point);
-      map.addOverlay(new GMarker(point, {title:"Athens", clickable: false}));
-			
-			map.addOverlay(new GPolyline(points1, "#ff0000", 4, 0.8));
-			map.addOverlay(new GPolyline(points2, "#00ff00", 4, 0.8));
-			map.addOverlay(new GPolyline(points3, "#0000ff", 4, 0.8));
-			map.addOverlay(new GPolyline(points4, "#00ffff", 4, 0.8));
-    }
-    //]]>
-		
-</script>
-		
-</head>
-
-<body onload="load()" onunload="GUnload()">
-
 <div class="topmenu">
 Overview
 <ul class="menuacross">
@@ -91,12 +13,6 @@ Overview
 <li><a href="faq.html" title="Frequently asked questions about the Balkans">FAQ</a></li>
 <li><a href="links.html" title="Links to websites about the Balkans">Links</a></li>
 </ul> 
-</div>
-
-<div id="map" class="imageboxright" style="width: 250px; height: 330px">
-<noscript>
-<p style="margin:1em"><i>If you would like to see a map of the places mentioned on this page, please enable Javascript in your browser.</i></p>
-</noscript>
 </div>
 
 <h2>How to travel from Croatia to Greece (or from Greece to Croatia)</h2>
@@ -256,5 +172,4 @@ Overview
 <li><a href="../index.html" title="Home page">Home</a></li>
 <li class="lastitem"><a href="#top" title="Top of page">Top</a></li>
 </ul> 
-
 
