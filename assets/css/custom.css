@@ -186,8 +186,6 @@ div.imagebox, div.imageboxleft, div.imageboxright {
 	background-color: #DDDDDD;
 	color: #000000;
 	border: 1px solid #999999;
-	width: auto;
-	max-width: 100%;
 }
 
 div.imagebox { text-align: center; margin: 5px 0px 0px 0px; }
