@@ -208,17 +208,18 @@ div.disclaimer {
 	background-color: #F3F3F3;
 	color: #000000;
 	border: 2px solid #BB0000;
-	padding: 0 0.5em 0 0.5em;
+	padding: 0.5em;
 }
 
 div.disclaimer h3 {
-	margin: 0.3em 0 0.3m 0;
+	margin: 0.3em 0 0.3em 0;
 	padding: 0;
 	text-align: center;
 }
 
 div.disclaimer p {
 	margin: 0;
+	padding: 0;
 }
 
 /* Extra styles for specific pages */
