@@ -211,14 +211,14 @@ div.disclaimer {
 	padding: 0 0.5em 0 0.5em;
 }
 
-div.disclaimer h4 {
-	margin: 0.3em 0 0 0;
+div.disclaimer h3 {
+	margin: 0.3em 0 0.3m 0;
 	padding: 0;
-	text-align: center
+	text-align: center;
 }
 
 div.disclaimer p {
-	padding-top: 0.3em;
+	margin: 0;
 }
 
 /* Extra styles for specific pages */
