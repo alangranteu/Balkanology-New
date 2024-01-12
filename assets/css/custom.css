@@ -19,9 +19,15 @@ a:visited img { border: 2px solid #666666; }
 a:hover img { border: 2px solid #BB0000; }
 a:active img { border: 2px solid #666666; }
 
-ul { list-style-type: square; }
+ul { 
+	list-style-type: square;
+	padding-left: inherit;
+	padding-right: inherit; 
+}
+
 ul.separated li { margin-bottom: 0.3em; }
 ul.runon { margin-top: -0.7em ; }
+
 blockquote { font-style: italic; }
 .quotesource { 
   margin-left: 10em;
