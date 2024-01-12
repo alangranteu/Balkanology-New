@@ -1,5 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
+---
+layout: default
+title: Balkanology | title1 | title2
+description: A description
+---  
+
+
+
 <head>
 <%
 Response.status = "404 Not Found"
@@ -7,7 +13,7 @@ Response.status = "404 Not Found"
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="noindex,noarchive">
 <meta name="description" content="404 not found error page">
-<title>Balkanology :: Error 404 File Not Found</title>
+<title>Balkanology | Error 404 File Not Found</title>
 <link rel="stylesheet" type="text/css" href="http://www.balkanology.com/common/stylesmain.css">
 </head>
 
@@ -41,7 +47,7 @@ Response.status = "404 Not Found"
   </form>
 <!-- Google CSE Search Box Ends -->
         
-</div> <!-- mainbox -->
+
 
 <div id="footer">
 <ul class="menuacross">
@@ -49,8 +55,7 @@ Response.status = "404 Not Found"
 </ul> 
 </div>
 
-<div id="leftbox">
-<ul class="sidemenu">
+
 <li><a href="http://www.balkanology.com/overview/index.html" title="Overview of the Balkans">Overview</a></li>
 <li><a href="http://www.balkanology.com/albania/index.html" title="Albania travel information and resources">Albania</a></li> 
 <li><a href="http://www.balkanology.com/bosnia/index.html" title="Bosnia and Herzegovina travel information and resources">Bosnia &amp; Herz.</a></li>
@@ -65,9 +70,9 @@ Response.status = "404 Not Found"
 <li><a href="http://www.balkanology.com/slovenia/index.html" title="Slovenia travel information and resources">Slovenia</a></li>
 <li><a href="http://www.balkanology.com/turkey/index.html" title="European Turkey travel information and resources">Turkey</a></li>
 </ul> 
-</div> <!-- leftbox -->
 
-<div id="rightbox">
+
+
 <ul class="sidemenu">
 <li><a href="http://www.balkanology.com/index.html" title="Home page">Home</a></li>
 <li><a href="http://www.balkanology.com/general/sitesearch.html" title="Search the Balkanology website">Search</a></li>
@@ -79,7 +84,5 @@ Response.status = "404 Not Found"
 <li><a href="http://www.balkanology.com/general/about.html" title="Find out more about this website and its creator">About</a></li>
 <li><a href="http://www.balkanology.com/general/contact1.html" title="How to contact Balkanology">Contact</a></li>
 </ul>
-</div> <!-- rightbox -->
 
-</body>
-</html>
+
