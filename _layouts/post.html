@@ -1,0 +1,7 @@
+<h2>{{ page.title }}</h2>
+
+{% if page.date %}
+{{ page.date | date_to_long_string }}
+{% endif %} 
+
+{{ content }}

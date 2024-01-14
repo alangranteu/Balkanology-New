@@ -175,6 +175,10 @@ div#footer ul.menuacross li.lastitem {
 	border-right: none;
 }
 
+p.dateinpost {
+	font-style: italic;
+}
+
 .aside {
 	background-color: #EEEEEE;
 	color: #000000;

@@ -1,0 +1,10 @@
+---
+date: '2009-08-15T19:08:00.005+01:00'
+description: What's new in Lonely Planet's "Western Balkans"?
+layout: post
+published: true
+slug: whats-new-in-lonely-planets-western
+title: What's new in Lonely Planet's "Western Balkans"?
+---
+
+Judging by the clicks through to Amazon from the links on this site, Lonely Planet's "Western Balkans" is the single most popular guidebook among readers of Balkanology. I mentioned the imminent publication of a second edition <a href="http://www.balkanology.com/blog/2009/03/new-and-updated-guidebooks-montenegro.html">back in March</a>, but I had few details at that stage. Now that I have my own copy, I thought some readers might be interested in a comparison with the first edition. <br /> <br />The most obvious change is that the chapter on Slovenia has been quietly dropped, presumably for not being Balkan enough. Along with an increase of 44 pages in the total size of the book, this has allowed quite a lot of extra material to be included in the individual country chapters, which have been completely rewritten. The following countries are now covered: Albania (53 pages), Bosnia (68), Croatia (92), Kosovo (12), Macedonia (52), Montenegro (40), and Serbia (51). There are also more than 100 pages of general material about the region as a whole. <br /><br />I was pleased to find that much of the extra space has been used to write about less well-known regions. Eastern Bosnia, for example, was ignored in the first guide but now gets four pages, including details of accommodation and transport (details notably lacking in the rather confused coverage of this region in the Bradt guide to Bosnia). Theth (Albania), Biogradska Gora (Montenegro), and Krushevo (Macedonia) are similar examples of destinations that have been added in the new edition. <br /><br />It's impossible to thoroughly judge a guidebook without using it on the ground, which I haven't yet had the chance to do. But leafing through the new edition of Western Balkans certainly prompted me to daydream about another visit to the region, taking in places I haven't yet seen - which has to be a good thing. <br /> <br />

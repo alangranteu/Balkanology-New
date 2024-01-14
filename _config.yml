@@ -15,10 +15,16 @@ url: "https://balkanology.com"
 baseurl: ""
 
 # RSS feeds
-# feed:
-#  posts_limit: 20
+feed:
+  posts_limit: 20
 
-# permalink: /:categories/:title/
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      permalink: /blog/slug/
 
 exclude:
   - Gemfile

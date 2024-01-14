@@ -1,0 +1,15 @@
+---
+layout: default
+title: Balkanology Blog
+description: Travel guide for the countries of the Balkan Peninsula
+---
+
+<h2>Blog Archive</h2>
+<ul class = "linklist">
+{% for post in site.posts %}
+  <li>
+    <h4> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
+    <span class="postdate">{{ post.date | date_to_string }}</span>
+  </li>
+{% endfor %}
+</ul>
