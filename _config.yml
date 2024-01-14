@@ -24,7 +24,7 @@ defaults:
       path: "" 
       type: "posts" 
     values:
-      permalink: /blog/slug/
+      permalink: /blog/:slug/
 
 exclude:
   - Gemfile
