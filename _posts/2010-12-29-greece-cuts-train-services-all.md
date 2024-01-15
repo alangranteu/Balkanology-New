@@ -26,4 +26,4 @@ As mentioned above, the announcement referred to international services being su
 <br />
 <b>Update 20/02/2010</b><br />
 <br />
-It appears that the suspension has indeed taken place - see my <a href="https://balkanology.com/blog/2011/02/greece-suspends-international-train.html">updated post</a>.
+It appears that the suspension has indeed taken place - see my <a href="https://balkanology.com/blog/2011/02/greece-suspends-international-train/">updated post</a>.

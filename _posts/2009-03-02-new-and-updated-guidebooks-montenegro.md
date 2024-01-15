@@ -26,7 +26,7 @@ Albania trails some distance behind Montenegro when it comes to being perceived 
 <br />
 The new guides to Albania and Montenegro will be of interest to travellers concentrating on a single country, but are probably too bulky for the many people who visit these countries as part of a longer trip. Those travellers will no doubt be interested in the second edition of Lonely Planet's Western Balkans guide, which will hopefully take account of the many changes in the region since the first edition appeared three years ago. Details are still sparse - all I know right now is that it is just 12 pages longer than the first edition. Presumably the same countries are covered - I wonder if Kosovo, barely touched on in the original edition, will get its own section? <br />
 <br />
-<strong>Please see <a href="https://balkanology.com/blog/whats-new-in-lonely-planets-western.html">this later post</a> for an update on the Western Balkans guide.</strong><br />
+<strong>Please see <a href="https://balkanology.com/blog/whats-new-in-lonely-planets-western">this later post</a> for an update on the Western Balkans guide.</strong><br />
 <br />
 <br />
 <br />
