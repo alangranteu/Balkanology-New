@@ -7,7 +7,7 @@ slug: guidebook-updates-2010
 title: Guidebook updates 2010
 ---
 
-It's time for one of my regular roundups of new and updated guidebooks to the Balkan region. There haven't been as many completely new guidebooks this year as in <a href="https://balkanology.com/blog/new-and-updated-guidebooks-montenegro.html">2009</a>, but several publishers have been active in producing updated versions of their existing books.<br />
+It's time for one of my regular roundups of new and updated guidebooks to the Balkan region. There haven't been as many completely new guidebooks this year as in <a href="https://balkanology.com/blog/new-and-updated-guidebooks-montenegro/">2009</a>, but several publishers have been active in producing updated versions of their existing books.<br />
 <br />
 I've already mentioned <b>Cicerone</b>'s new guide to walking in the Bulgarian mountains in a <a href="https://balkanology.com/blog/mountains-of-bulgaria-new-hiking-guide/">previous post</a>. Cicerone have also issued a new edition of Rudolf Abraham's Guide to Walking in Croatia. As well as describing treks in the mountains of mainland Croatia, the new version promises additional coverage of walks on the Adriatic islands.<br />
 <br />
