@@ -8,7 +8,7 @@ slug: greece-suspends-international-train
 title: Greece suspends international train services (this time they really mean it)
 ---
 
-At the end of last year I <a href="http://balkanology.com/blog/2010/12/greece-cuts-train-services-all.html">posted</a> about cost-cutting plans by the Greek train operator OSE. Among other things, the plans involved the suspension of all international train services into Greece from the start of January.<br />
+At the end of last year I <a href="https://balkanology.com/blog/greece-cuts-train-services-all.html">posted</a> about cost-cutting plans by the Greek train operator OSE. Among other things, the plans involved the suspension of all international train services into Greece from the start of January.<br />
 <br />
 As it turned out, these trains were given a temporary reprieve and continued running until February. But it appears that from February 12 the suspension did really go ahead, and according to all reports I can find, the Greek rail system is now isolated from the rest of Europe.<br />
 <br />

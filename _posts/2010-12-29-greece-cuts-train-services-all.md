@@ -22,8 +22,8 @@ I will post updates here if I receive any further updates about alternative mean
 <br />
 <b>Update 14/01/2010</b><br />
 <br />
-As mentioned above, the announcement referred to international services being suspended on January 1st. However I'm told that international trains are still running. And the websites of rail operators in neighbouring countries, who would obviously be affected by these measures, do not appear to have any information about changes to international services. It's not clear to me if the suspension has been temporarily deferred or abandoned. If anyone reading this can clarify the issue it would be great if you could post a comment here or <a href="http://www.balkanology.com/general/contact1.html">contact me</a>.<br />
+As mentioned above, the announcement referred to international services being suspended on January 1st. However I'm told that international trains are still running. And the websites of rail operators in neighbouring countries, who would obviously be affected by these measures, do not appear to have any information about changes to international services. It's not clear to me if the suspension has been temporarily deferred or abandoned. If anyone reading this can clarify the issue it would be great if you could post a comment here or <a href="https://balkanology.com/general/contact1.html">contact me</a>.<br />
 <br />
 <b>Update 20/02/2010</b><br />
 <br />
-It appears that the suspension has indeed taken place - see my <a href="http://balkanology.com/blog/2011/02/greece-suspends-international-train.html">updated post</a>.
+It appears that the suspension has indeed taken place - see my <a href="https://balkanology.com/blog/2011/02/greece-suspends-international-train.html">updated post</a>.

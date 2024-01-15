@@ -7,7 +7,7 @@ slug: more-about-montenegro-in-travel-pages
 title: More about Montenegro in the travel pages
 ---
 
-Several UK newspapers have published articles about <a href="http://www.balkanology.com/montenegro/index.html">Montenegro</a> in the last few weeks.<br />
+Several UK newspapers have published articles about <a href="https://balkanology.com/montenegro/index.html">Montenegro</a> in the last few weeks.<br />
 <br />
 <a href="http://www.dailymail.co.uk/travel/article-1339972/Montenegro-s-spotless-beaches-wild-wolves-Corner-Europe-untamed-tourism.html">The Mail</a> describes a family driving holiday based mainly on the Adriatic coast, with an excursion inland to Durmitor National Park.<br />
 <br />

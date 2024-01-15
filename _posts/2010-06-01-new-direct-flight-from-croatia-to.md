@@ -15,4 +15,4 @@ The airline says that return fares will be available starting at €164 - althou
 <br />
 More details from <a href="http://www.croatiaairlines.com/en/nbspnbspnbspspecialoffersnbspnbspnbsp/Athens/tabid/916/Default.aspx">Croatia Airlines</a><br />
 <br />
-More about <a href="http://www.balkanology.com/overview/article_croatia_to_greece.html">travelling from Croatia to Greece</a>
+More about <a href="https://balkanology.com/overview/article_croatia_to_greece.html">travelling from Croatia to Greece</a>

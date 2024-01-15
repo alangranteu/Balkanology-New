@@ -11,5 +11,5 @@ For several years Bradt has been the only publisher offering a general-purpose g
 <br />
 <br />
 <br />
-<a href="http://www.balkanology.com/montenegro/books.html">Books about Montenegro</a><br />
-<a href="http://www.balkanology.com/serbia/books.html">Books about Serbia</a>
+<a href="https://balkanology.com/montenegro/books.html">Books about Montenegro</a><br />
+<a href="https://balkanology.com/serbia/books.html">Books about Serbia</a>
